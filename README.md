@@ -120,7 +120,7 @@ Next, we aim to edit the rsyslog.conf file on our clients, and the process is ou
 
 And then we can see in our syslog files whether it worked or not.
 
-(picture of it working)
+Unfortunetly it didn't work!
 
 10. Install and configure Postfix on server1, so users can send and receive emails using Round Cube open-source software.
 
