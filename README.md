@@ -134,8 +134,7 @@ I won't be concluding this task.
 
 On the server, we'll have to use "sudo apt install openssh-server" and execute the following commands after generating an RSA key.
 
-
-
+![ssh](https://github.com/TiagoMMFx/KEST3LN-Lokaverkefni/assets/80530415/d308780c-8944-48e3-a913-a13cccba4517)
 
 13. All unused ports should be closed, use NMAP for testing.
 
